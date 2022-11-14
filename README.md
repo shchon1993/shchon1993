@@ -2,10 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shchon1993&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shchon1993&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shchon1993)](https://solved.ac/shchon1993/)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shchon1993&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shchon1993)](https://solved.ac/shchon1993/)
 # Skills
 
 
