@@ -3,6 +3,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shchon1993&show_icons=true&theme=algolia)
 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
 <!--
 **shchon1993/shchon1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
